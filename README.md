@@ -1,5 +1,5 @@
 # My-Projects
-Neural_Networks (Sample Code )
+#Neural_Networks (Sample Code )
 import numpy as np 
 #neurons=int(input('Please Enter The Number Of Neurons'))
 neurons =4 #Intial Value For Sample Example About Neural Networks 
